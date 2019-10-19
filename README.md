@@ -1,2 +1,2 @@
 # 2016510066-SeherInci-Tastan
-DEUCENG student
+# 2017510068-Berkay-Sert
